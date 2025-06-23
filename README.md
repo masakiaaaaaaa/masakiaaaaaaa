@@ -29,8 +29,8 @@
 | 実装力 (Web Development) | 洞察力 (Leadership & Education) | 解析力 (Research & Signal Processing) |
 | :---: | :---: | :---: |
 | <!-- TODO: <あなたのユーザー名> をあなたのGitHubユーザー名に書き換える -->
-| [![SUTASAKU Demo](./sutasaku-app/sutasaku_demo.gif)](https://github.com/<あなたのユーザー名>/sutasaku-app) | [![Teaching Leadership](./teaching-leadership/teaching_image.jpg)](https://github.com/<あなたのユーザー名>/teaching-leadership) | [![Radar Research](./radar-biosignal-research/research_graph.png)](https://github.com/<あなたのユーザー名>/radar-biosignal-research) |
-| **[学習支援アプリ「スタサク」開発](https://github.com/<あなたのユーザー名>/sutasaku-app)** | **[個別指導塾での主任経験](https://github.com/<あなたのユーザー名>/teaching-leadership)** | **[レーダーを用いた生体情報推定研究](https://github.com/<あなたのユーザー名>/radar-biosignal-research)** |
+| [![SUTASAKU Demo](./sutasaku-app/sutasaku_demo.gif)](https://github.com/masakiaaaaaaa/sutasaku-app) | [![Teaching Leadership](./teaching-leadership/teaching_image.jpg)](https://github.com/masakiaaaaaaa/teaching-leadership) | [![Radar Research](./radar-biosignal-research/research_graph.png)](https://github.com/masakiaaaaaaa/radar-biosignal-research) |
+| **[学習支援アプリ「スタサク」開発](https://github.com/masakiaaaaaaa/sutasaku-app)** | **[個別指導塾での主任経験](https://github.com/masakiaaaaaaa/teaching-leadership)** | **[レーダーを用いた生体情報推定研究](https://github.com/masakiaaaaaaa/radar-biosignal-research)** |
 | 塾の課題を解決するため、PHP/MariaDBでゲーミフィケーションWebアプリをフルスクラッチ開発。 | 講師研修の企画・実施を通じて、教育現場の課題を深く理解し、チームを主導。 | 複雑なレーダー信号からPTTを推定し、血圧変動を解析。信号処理とデータ分析の専門性を追求。 |
 
 ---
