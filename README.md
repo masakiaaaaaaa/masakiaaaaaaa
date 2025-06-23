@@ -1,4 +1,4 @@
-# 武尾 優樹 (Yuki Takeo) - README
+
 
 <p align="center">
   <img src="https://path/to/your/header_image.png" alt="Header Image" width="800"/>
