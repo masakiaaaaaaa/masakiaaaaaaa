@@ -1,18 +1,25 @@
-
-
+<!--
+自己紹介
+武尾 優樹 (Yuki Takeo)
+-->
 <p align="center">
-  <img src="https://path/to/your/header_image.png" alt="Header Image" width="800"/>
+  <!-- TODO: ここに自作したヘッダー画像のURLを入れる -->
+  <img src="https://i.imgur.com/your-header-image.png" alt="Header Image" width="850"/>
 </p>
+
+<h1 align="center">武尾 優樹 (Yuki Takeo)</h1>
 
 <p align="center">
   <b>現場の課題を深く洞察し(教育者)、技術で解決策を実装し(開発者)、その効果をデータで証明する(研究者)。</b><br>
   この三位一体のアプローチで、人々の課題を解決する革新的なプロダクト開発に貢献します。<br>
-  電気通信大学大学院 知能機械システム工学専攻 修士1年
+  <br>
+  <em>電気通信大学大学院 知能機械システム工学専攻 修士1年</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- TODO: <...> の部分をあなたの情報に書き換える -->
+  <a href="<https://www.linkedin.com/in/あなたのLinkedIn_ID>"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:<あなたのメールアドレス>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -21,8 +28,9 @@
 
 | 実装力 (Web Development) | 洞察力 (Leadership & Education) | 解析力 (Research & Signal Processing) |
 | :---: | :---: | :---: |
-| [![SUTASAKU Demo](./sutasaku-app/sutasaku_demo.gif)](./sutasaku-app) | [![Teaching Leadership](./teaching-leadership/teaching_image.jpg)](./teaching-leadership) | [![Radar Research](./radar-biosignal-research/research_graph.png)](./radar-biosignal-research) |
-| **[学習支援アプリ「スタサク」開発](./sutasaku-app)** | **[個別指導塾での主任経験](./teaching-leadership)** | **[レーダーを用いた生体情報推定研究](./radar-biosignal-research)** |
+| <!-- TODO: <あなたのユーザー名> をあなたのGitHubユーザー名に書き換える -->
+| [![SUTASAKU Demo](./sutasaku-app/sutasaku_demo.gif)](https://github.com/<あなたのユーザー名>/sutasaku-app) | [![Teaching Leadership](./teaching-leadership/teaching_image.jpg)](https://github.com/<あなたのユーザー名>/teaching-leadership) | [![Radar Research](./radar-biosignal-research/research_graph.png)](https://github.com/<あなたのユーザー名>/radar-biosignal-research) |
+| **[学習支援アプリ「スタサク」開発](https://github.com/<あなたのユーザー名>/sutasaku-app)** | **[個別指導塾での主任経験](https://github.com/<あなたのユーザー名>/teaching-leadership)** | **[レーダーを用いた生体情報推定研究](https://github.com/<あなたのユーザー名>/radar-biosignal-research)** |
 | 塾の課題を解決するため、PHP/MariaDBでゲーミフィケーションWebアプリをフルスクラッチ開発。 | 講師研修の企画・実施を通じて、教育現場の課題を深く理解し、チームを主導。 | 複雑なレーダー信号からPTTを推定し、血圧変動を解析。信号処理とデータ分析の専門性を追求。 |
 
 ---
