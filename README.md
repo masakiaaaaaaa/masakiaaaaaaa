@@ -7,7 +7,7 @@
   <img src="https://i.imgur.com/your-header-image.png" alt="Header Image" width="850"/>
 </p>
 
-<h1 align="center">武尾 優樹 (Yuki Takeo)</h1>
+<h1 align="center">武尾 優樹 (Takeo Masaki)</h1>
 
 <p align="center">
   <b>現場の課題を深く洞察し(教育者)、技術で解決策を実装し(開発者)、その効果をデータで証明する(研究者)。</b><br>
