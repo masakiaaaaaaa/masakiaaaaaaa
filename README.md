@@ -1,6 +1,6 @@
 <!--
 自己紹介
-武尾 優樹 (Yuki Takeo)
+武尾 優樹  (Takeo Masaki)
 -->
 <p align="center">
   <!-- TODO: ここに自作したヘッダー画像のURLを入れる -->
